@@ -15,3 +15,13 @@ Esta es una plataforma diseñada para conectar a estudiantes de últimos semestr
 - *Panel de Administración para ONGs*: Administración de perfiles, oportunidades de pasantías, y gestión de postulaciones.
 - *Sistema de Evaluación y Feedback*: Evaluaciones mutuas entre estudiantes y ONGs para mejorar la calidad de las futuras pasantías.
 - *Accesibilidad*: Cumplimiento de estándares de accesibilidad web, garantizando que la plataforma sea usable por personas con discapacidades.
+
+
+## Requerimientos del Sistema
+
+- *Node.js* (versión 16 o superior)
+- *MongoDB* para el almacenamiento de datos
+- *Express.js* como framework web backend
+- *HTML, CSS, JavaScript* para la interfaz de usuario
+- *Correo Electrónico* para la confirmación de registros
+- *Autenticación* y *Autorización* con roles y permisos
